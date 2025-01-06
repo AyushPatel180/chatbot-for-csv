@@ -1,0 +1,8 @@
+streamlit 
+plotly 
+pandas
+numpy 
+typing
+langchain
+langchain-groq
+langchain_experimental
