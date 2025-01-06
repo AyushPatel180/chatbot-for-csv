@@ -72,7 +72,7 @@ streamlit run main.py
 ```
 ├── main.py                # Main application file
 ├── requirements.txt       # Project dependencies
-├── .env                  # Environment variables (not tracked in git)
+├── .env                  # Environment variables 
 └── README.md             # Project documentation
 ```
 
@@ -99,7 +99,7 @@ streamlit run main.py
 ## 🌐 Deployment
 
 The application is deployed on Streamlit Cloud. You can access it at:
-[Your Streamlit App URL]
+(https://chatbot-for-csv.streamlit.app/)
 
 ## ⚠️ Limitations
 
@@ -127,8 +127,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - LangChain for the LLM integration tools
 - The open-source community for various libraries used
 
-## 📧 Contact
 
-[Your Name] - [Your Email]
-
-Project Link: [Your Repository URL]
